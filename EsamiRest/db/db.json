@@ -1,0 +1,53 @@
+{
+  "studenti": [
+    {
+      "id": 1,
+      "nome": "Eugenio",
+      "cognome": "Aloi",
+      "matricola": "A011",
+      "materia": "Analisi 2"
+    },
+    {
+      "id": 2,
+      "nome": "Paolino",
+      "cognome": "Paperino",
+      "matricola": "A012",
+      "materia": "Analisi 2"
+    },
+    {
+      "id": 3,
+      "nome": "Laura",
+      "cognome": "Gialli",
+      "matricola": "A013",
+      "materia": "Programmazione 1"
+    },
+    {
+      "nome": "pasquale",
+      "cognome": "esposito",
+      "matricola": "A014",
+      "id": 4,
+      "materia": "Programmazione 1"
+    }
+  
+  ],
+  "docenti": [
+    {
+      "id": 1,
+      "nome": "Mario",
+      "cognome": "Verdi",
+      "materia": "Programmazione 1"
+    },
+    {
+      "id": 2,
+      "nome": "Anna",
+      "cognome": "Rossi",
+      "materia": "Analisi 2"
+    },
+    {
+      "id": 3,
+      "nome": "Antonio",
+      "cognome": "Schilla",
+      "materia": "Ingegneria del software"
+    }
+  ]
+}
